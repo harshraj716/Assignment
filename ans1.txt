@@ -1,0 +1,3 @@
+To generate SSH in System, we need to use "ssh-keygen" in windows.
+Copy the public SSH key and paste it inside SSH option in github
+Click on Add key to register your SSh key on github
