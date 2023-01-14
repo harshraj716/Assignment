@@ -1,0 +1,1 @@
+The Primitive Data types in JavaScript include Number, String, Boolean, Undefined, Null and Symbol.
