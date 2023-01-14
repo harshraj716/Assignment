@@ -1,0 +1,6 @@
+1)NodeJs provides user interaction with the "client" of a web application.
+2)Server is reponsible for taking the client requests,performing the request and sening the response back to the client.
+3)database stores the data for web application.The data can be created,updated and deleted whenever clients requests.
+
+4) NodeJs uses "Single Threaded event loop " artitectue to handle multiple concurrent clents.it allow to manage man concurrent client at same time.
+5)NodeJs processing model is based on the javascript event based model with the javascript callback mechanishm.
