@@ -1,0 +1,5 @@
+blocking : Blocking is when the execution of additional JavaScript in the Node.js process must wait until a non-JavaScript operation completes. 
+
+synchronous:execution usually refers to code executing in sequence. In sync programming, the program is executed line by line, one line at a time. Each time a function is called, the program execution waits until that function returns before continuing to the next line of code.
+
+Single Threaded- Node JS Platform doesn’t follow the Multi-Threaded Request/Response Stateless Model. It follows the Single-Threaded with Event Loop Model. Node JS Processing model mainly inspired by JavaScript Event-based model with JavaScript callback mechanism. Because of which Node.js can handle more concurrent client requests with ease.
