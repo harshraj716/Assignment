@@ -1,0 +1,1 @@
+To define JSON, we can say it is a text-based, lightweight, and human-readable format for data exchange between clients and servers. JSON is derived from JavaScript and bears a close resemblance to JavaScript objects, but it is not dependent on JavaScript.
